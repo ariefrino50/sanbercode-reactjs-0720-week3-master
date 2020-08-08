@@ -1,0 +1,20 @@
+.container{
+    margin:auto;
+}
+table{
+    margin:auto;
+    border:1px solid black;
+}
+
+table td{
+    width:150px;
+    text-align:center;
+}
+
+table thead {
+    background-color:gray;
+}
+
+table tbody{
+    background-color:salmon;
+}
